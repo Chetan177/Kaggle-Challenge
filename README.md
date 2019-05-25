@@ -1,6 +1,6 @@
 # Kaggle-Challenge
 
-All thw python notebooks will work on google colab platform.
+All the python notebooks will work on google colab platform.
 
 # Earth quake pridiction.ipynb
    <a href= "https://www.kaggle.com/c/LANL-Earthquake-Prediction/overview"> LINK </a>
