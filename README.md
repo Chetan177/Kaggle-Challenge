@@ -10,5 +10,5 @@ All thw python notebooks will work on google colab platform.
     
     
  # graduate.ipynb
-    <a href= "https://www.kaggle.com/mohansacharya/graduate-admissions"> LINK </a>
+    <a href = "https://www.kaggle.com/mohansacharya/graduate-admissions"> LINK </a>
 
