@@ -14,3 +14,6 @@ All the python notebooks will work on google colab platform.
     
 # Housing price prediction kaggle.ipynb
    <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview">LINK</a>
+   
+# Pubg_prediction.ipynb
+   <a href="https://www.kaggle.com/c/pubg-finish-placement-prediction">LINK</a>
